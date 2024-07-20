@@ -4,6 +4,10 @@
   "description": "Iroh the Cat Night theme. A clean Visual Studio Code theme named after my cat.",
   "version": "0.0.1",
 	"publisher": "sape94",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sape94/iroh-the-cat-night.git"
+  },
   "keywords": [
 		"theme",
 		"contrast",
