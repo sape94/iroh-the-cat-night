@@ -31,6 +31,8 @@ Illustration of Iroh.
 ![Iroh the Cat](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/icon.png)
 
 If you are into good practices add some theme-colored editor rulers to your vscode code as these ones:
+
+```python
 "editor.rulers": [
 {
 "column": 79,
@@ -45,6 +47,7 @@ If you are into good practices add some theme-colored editor rulers to your vsco
 "color": "#ff4080e1"
 }
 ]
+```
 
 ## For more information
 
