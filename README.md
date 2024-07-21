@@ -1,19 +1,53 @@
-# iroh-the-cat-night README
+# Iroh the Cat Night Theme
 
 <br><br>Iroh the Cat Night theme. A clean Visual Studio Code theme named after my cat [Night theme.]
 
-## Screenshots
+## Theme variations based on language
 
-Illustration of Iroh
+Python:
+![Python](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/theme-variations-images/iroh-the-cat-night-python.png)
+
+C++:
+![C++](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/theme-variations-images/iroh-the-cat-night-cplusplus.png)
+
+Java:
+![Java](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/theme-variations-images/iroh-the-cat-night-java.png)
+
+Go:
+![Go](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/theme-variations-images/iroh-the-cat-night-go.png)
+
+HTML:
+![HTML](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/theme-variations-images/iroh-the-cat-night-html.png)
+
+CSS:
+![CSS](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/theme-variations-images/iroh-the-cat-night-css.png)
+
+JavaScript:
+![JavaScript](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/theme-variations-images/iroh-the-cat-night-javascript.png)
+
+## Iroh the cat
+
+Illustration of Iroh.
 ![Iroh the Cat](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/icon.png)
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+If you are into good practices add some theme-colored editor rulers to your vscode code as these ones:
+"editor.rulers": [
+{
+"column": 79,
+"color": "#ff40806f"
+},
+{
+"column": 83,
+"color": "#ff4080a8"
+},
+{
+"column": 87,
+"color": "#ff4080e1"
+}
+]
 
 ## For more information
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Github repo](https://github.com/sape94/iroh-the-cat-night)
 
 **Enjoy!**
