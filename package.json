@@ -2,7 +2,7 @@
   "name": "iroh-the-cat-night",
   "displayName": "Iroh the Cat Night",
   "description": "Iroh the Cat Night theme. A clean Visual Studio Code theme named after my cat.",
-  "version": "0.0.2",
+  "version": "1.0.0",
 	"publisher": "sape94",
   "repository": {
     "type": "git",
@@ -16,7 +16,9 @@
     "iroh cat",
     "iroh the cat",
 		"cat",
-		"clean"
+		"clean",
+    "night", 
+    "midnight"
 	],
 	"icon": "icon.png",
   "galleryBanner": {
@@ -35,7 +37,12 @@
         "label": "Iroh the Cat Night",
         "uiTheme": "vs-dark",
         "path": "./themes/Iroh the Cat Night-color-theme.json"
-      }
+      },
+			{
+				"label": "Iroh the Cat Midnight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Iroh the Cat Midnight-color-theme.json"
+			}
     ]
   }
 }
