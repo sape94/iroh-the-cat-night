@@ -1,13 +1,13 @@
-# Variations
+## Variations
 
-- Night [#iroh-the-cat-night-theme]
-- Midnight [#iroh-the-cat-midnight-theme]
+- [Night](#iroh-the-cat-night-theme)
+- [Midnight](#iroh-the-cat-midnight-theme)
 
 # Iroh the Cat Night Theme
 
 <br><br>Iroh the Cat Night theme. A clean Visual Studio Code theme named after my cat [Night theme.]
 
-### Theme variations based on language
+## Theme variations based on language
 
 ![Visual Studio Code Window](theme-variations/night/window.png)
 
@@ -35,7 +35,7 @@
 
 <br><br>Iroh the Cat Midnight theme. A clean Visual Studio Code theme named after my cat [Midnight theme.]
 
-### Theme variations based on language
+## Theme variations based on language
 
 ![Visual Studio Code Window](theme-variations/midnight/window.png)
 
@@ -59,7 +59,7 @@
 
 ![HTML](theme-variations/midnight/html.png)
 
-## Iroh the cat
+# Iroh the cat
 
 Illustration of Iroh.
 ![Iroh the Cat](https://raw.githubusercontent.com/sape94/iroh-the-cat-night/main/icon.png)
@@ -83,7 +83,7 @@ If you are into good practices add some theme-colored editor rulers to your vsco
 ]
 ```
 
-### For more information
+## For more information
 
 - [Github repo](https://github.com/sape94/iroh-the-cat-night)
 
