@@ -1,9 +1,9 @@
 # Variations
 
-- Night [##iroh-the-cat-night-theme]
-- Midnight [##iroh-the-cat-midnight-theme]
+- Night [#iroh-the-cat-night-theme]
+- Midnight [#iroh-the-cat-midnight-theme]
 
-## Iroh the Cat Night Theme
+# Iroh the Cat Night Theme
 
 <br><br>Iroh the Cat Night theme. A clean Visual Studio Code theme named after my cat [Night theme.]
 
@@ -31,7 +31,7 @@
 
 ![HTML](theme-variations/night/html.png)
 
-## Iroh the Cat Midnight Theme
+# Iroh the Cat Midnight Theme
 
 <br><br>Iroh the Cat Midnight theme. A clean Visual Studio Code theme named after my cat [Midnight theme.]
 
