@@ -9,25 +9,47 @@
 
 ## Theme variations based on language
 
+### Visual Studio Code Window
+
 ![Visual Studio Code Window](theme-variations/night/window.png)
+
+### Python
 
 ![Python](theme-variations/night/python.png)
 
+### C++
+
 ![C++](theme-variations/night/cpp.png)
+
+### Java
 
 ![Java](theme-variations/night/java.png)
 
+### Rust
+
 ![Rust](theme-variations/night/rust.png)
+
+### Go
 
 ![Go](theme-variations/night/go.png)
 
+### PHP
+
 ![PHP](theme-variations/night/php.png)
+
+### Ruby
 
 ![Ruby](theme-variations/night/ruby.png)
 
+### Javascript (JS)
+
 ![Javascript](theme-variations/night/js.png)
 
+### CSS
+
 ![CSS](theme-variations/night/css.png)
+
+### HTML
 
 ![HTML](theme-variations/night/html.png)
 
@@ -37,25 +59,47 @@
 
 ## Theme variations based on language
 
+### Visual Studio Code Window
+
 ![Visual Studio Code Window](theme-variations/midnight/window.png)
+
+### Python
 
 ![Python](theme-variations/midnight/python.png)
 
+### C++
+
 ![C++](theme-variations/midnight/cpp.png)
+
+### Java
 
 ![Java](theme-variations/midnight/java.png)
 
+### Rust
+
 ![Rust](theme-variations/midnight/rust.png)
+
+### Go
 
 ![Go](theme-variations/midnight/go.png)
 
+### PHP
+
 ![PHP](theme-variations/midnight/php.png)
+
+### Ruby
 
 ![Ruby](theme-variations/midnight/ruby.png)
 
+### Javascript (JS)
+
 ![Javascript](theme-variations/midnight/js.png)
 
+### CSS
+
 ![CSS](theme-variations/midnight/css.png)
+
+### HTML
 
 ![HTML](theme-variations/midnight/html.png)
 
