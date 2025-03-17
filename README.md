@@ -1,7 +1,7 @@
 # Variations
 
-- Night [#iroh-the-cat-night-theme]
-- Midnight [#iroh-the-cat-midnight-theme]
+- Night [##iroh-the-cat-night-theme]
+- Midnight [##iroh-the-cat-midnight-theme]
 
 ## Iroh the Cat Night Theme
 
