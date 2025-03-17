@@ -64,7 +64,7 @@
 		"input.foreground": "#a9b1d6",
 		"input.border": "#282e44",
 		"input.placeholderForeground": "#4a5272",
-		"inputOption.activeForeground": "#c0caf5",
+		"inputOption.activeForeground": "#a8b1ff",
 		"inputOption.activeBackground": "#3d59a144",
 
 		"inputValidation.infoForeground": "#bbc2e0",
@@ -162,7 +162,7 @@
 		"editor.wordHighlightStrongBackground": "#6f7bb644",
 		"editor.selectionHighlightBackground": "#6f7bb633",
 
-		"editorCursor.foreground": "#c0caf5",
+		"editorCursor.foreground": "#a8b1ff",
 		"editorIndentGuide.background1": "#292e42",
 		"editorIndentGuide.activeBackground1": "#3b4261",
 		"editorLineNumber.foreground": "#3b4261",
@@ -405,12 +405,12 @@
 		"notificationsWarningIcon.foreground": "#bba461",
 		"notificationsInfoIcon.foreground": "#0da0ba",
 
-		"menubar.selectionForeground":"#c0caf5",
+		"menubar.selectionForeground":"#a8b1ff",
 		"menubar.selectionBackground":"#2f3549",
 		"menubar.selectionBorder":"#1b1e2e",
 		"menu.foreground":"#7982a9",
 		"menu.background":"#1f2135",
-		"menu.selectionForeground":"#c0caf5",
+		"menu.selectionForeground":"#a8b1ff",
 		"menu.selectionBackground":"#2f3549",
 		"menu.separatorBackground":"#1b1e2e",
 		"menu.border":"#1b1e2e"
@@ -730,7 +730,7 @@
 				"meta.function-call meta.function-call.arguments"
 			],
 			"settings": {
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -773,7 +773,7 @@
 			"name": "Object Property",
 			"scope": "variable.other.object.property",
 			"settings": {
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -897,7 +897,21 @@
 			"name": "Class Name",
 			"scope": "entity.name",
 			"settings": {
-				"foreground": "#c0caf5"
+				"foreground": "#5ecfff"
+			}
+		},
+		{
+			"name": "Source Variable Language",
+			"scope": [
+				"source.python",
+				"source.ruby",
+				"source.cpp",
+				"source.c",
+				"source.rust",
+				"entity.name.type.numeric.rust",
+			],
+			"settings": {
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -1038,7 +1052,7 @@
 			"name": "SCSS Include Mixin Argument",
 			"scope": "meta.property-list meta.at-rule.include",
 			"settings": {
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -1056,7 +1070,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -1070,7 +1084,7 @@
 			"name": "Variable punctuation",
 			"scope": "variable.other punctuation.definition.variable",
 			"settings": {
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -1197,7 +1211,7 @@
 			"name": "Regular Expressions - Backslash",
 			"scope": "constant.character.escape.backslash",
 			"settings": {
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -1343,7 +1357,7 @@
 				"meta.embedded.block"
 			],
 			"settings": {
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -1446,7 +1460,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -1458,7 +1472,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
@@ -1469,7 +1483,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold italic",
-				"foreground": "#c0caf5"
+				"foreground": "#a8b1ff"
 			}
 		},
 		{
